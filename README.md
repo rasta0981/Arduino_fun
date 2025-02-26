@@ -7,3 +7,5 @@ temp_sensor.ino > utilizes dht11 hum/temp sensor to report serial data informati
 blink-2.ino > esp32 board connected to thr random LEDs 
 
 print_rectangles.ino > esp32 CYD displaying RED/GOLD/GREEN flag
+
+mic_drop.ino > esp32 board connected to sound sensor 
