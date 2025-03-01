@@ -1,10 +1,8 @@
-                                        /*
- * This ESP32 code is created by esp32io.com
- *
- * This ESP32 code is released in the public domain
- *
- * For more detail (instruction and wiring diagram), visit https://esp32io.com/tutorials/esp32-dht11
- */
+/*
+* This ESP32 code is created by esp32io.com
+* This ESP32 code is released in the public domain
+* For more detail (instruction and wiring diagram), visit https://esp32io.com/tutorials/esp32-dht11
+*/
 
 #include <DHT.h>
 #include <SD.h>
@@ -20,7 +18,7 @@ void setup() {
 void loop() {
   // read humidity
   float humi  = dht11.readHumidity();
-  // read temperature in Celsius
+  // read temperature in Celsius -- uncomment in serial print below 
   float tempC = dht11.readTemperature();
   // read temperature in Fahrenheit
   float tempF = dht11.readTemperature(true);

@@ -28,9 +28,4 @@ void loop() {
     digitalWrite(ledPin2, LOW);
     delay(90);
   }
-
-  //else {
-    //digitalWrite(ledPin, LOW);
-    //delay(70);
-  //}
 }
