@@ -1,5 +1,5 @@
 # Arduino_fun
-Provides a learning and testing environment for myself to better understand microcontrolers.
+Provides a learning and testing environment to better understand microcontrolers.
 All code utilized here is publicly avaiable and is not owned or created by myself
 ------------------------------------------------------------------------------------
 1. temp_sensor.ino > utilizes dht11 hum/temp sensor to report serial data information
