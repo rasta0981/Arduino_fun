@@ -1,6 +1,6 @@
 # Arduino_fun
 
-Arduino_fun provides a concise learning and experimentation environment designed to help users deepen their understanding of microcontrollers and embedded development. All code in this repository is free and publicly available for educational and experimental use.
+Arduino_fun provides a concise learning and experimentation environment designed to help me deepen my understanding of microcontrollers and embedded development. All code in this repository is free and publicly available for educational and experimental use.
 
 ---
 
